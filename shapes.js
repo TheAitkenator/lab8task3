@@ -1,0 +1,1 @@
+let myCircle = {x: 100, y: 200, radius: 50}
